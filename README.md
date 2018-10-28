@@ -50,3 +50,6 @@ ta  p நிறம்
 https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1075
 
 https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1075&format=json
+
+https://github.com/inventaire/entities-search-engine
+
