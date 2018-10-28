@@ -48,3 +48,5 @@ en_GB s colours
 ta  p நிறம்
 
 https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1075
+
+https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1075&format=json
