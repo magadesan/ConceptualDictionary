@@ -56,3 +56,5 @@ https://github.com/inventaire/entities-search-engine
 https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=adobe_Inc&redirects=
 
 https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&uselang=en&type=item&search=active%20service
+
+https://github.com/maxlath/wikidata-cli
